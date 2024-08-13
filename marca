@@ -1,0 +1,8 @@
+public class Marca extends produtos {
+    
+int codigo;
+String nome;
+
+
+
+}
