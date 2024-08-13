@@ -1,0 +1,10 @@
+
+
+public class Produto extends produtos {
+
+  int codigo;
+  String nome;
+  int marca;
+    
+
+}
